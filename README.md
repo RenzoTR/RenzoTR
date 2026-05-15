@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif" width="280"/>
+<img src="https://media1.tenor.com/m/mjWYgxi6RS8AAAAC/lain-typing.gif" width="280"/>
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![github](https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=4af626)](https://github.com/burrice)&nbsp;
+[![github](https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=4af626)](https://github.com/RenzoTR)&nbsp;
 
 <br/>
 
