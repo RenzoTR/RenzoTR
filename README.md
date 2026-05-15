@@ -10,7 +10,7 @@
 
 ```
 ┌──────────────────────────────────┐
-│  name     ░ Renzo                │
+│  name       Renzo                │
 │  locate   ░ 027                  │
 │  stack    ░ node|py|sql|ts       │ 
 └──────────────────────────────────┘
@@ -19,7 +19,7 @@
 <div align="center">
 
 [![github](https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=4af626)](https://github.com/RenzoTR)&nbsp;
-
+[![discord](https://img.shields.io/badge/discord-0d1117?style=flat-square&logo=discord&logoColor=4af626)](https://discord.com/users/1401902057929183232)&nbsp;
 <br/>
 
 </div>
