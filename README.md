@@ -4,7 +4,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=2000&color=4AF626&center=true&vCenter=true&width=460&lines=%3E+close+this+world.+open+the+next.;%3E+if+it's+connected%2C+it's+mine.)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=500&color=4C0092&width=435&lines=%3E+make+it+work.;%3E+make+it+right.;%3E+make+it+fast.)](https://git.io/typing-svg)
 
 </div>
 
