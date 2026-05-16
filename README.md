@@ -18,8 +18,8 @@
 
 <div align="center">
 
-[![github](https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=4af626)](https://github.com/216saint)&nbsp;
-[![discord](https://img.shields.io/badge/discord-0d1117?style=flat-square&logo=discord&logoColor=4af626)](https://discord.com/users/1401902057929183232)&nbsp;
+[![github](https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=2C0088FF)](https://github.com/216saint)&nbsp;
+[![discord](https://img.shields.io/badge/discord-0d1117?style=flat-square&logo=discord&logoColor=2C0088FF)](https://discord.com/users/1401902057929183232)&nbsp;
 <br/>
 
 </div>
